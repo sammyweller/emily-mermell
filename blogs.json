@@ -6,5 +6,109 @@
         "imageAlt": "woman at desk in coffee shop",
         "category": "web strategy",
         "srcUrl": "https://bootcamp.uxdesign.cc/you-need-a-web-strategist-on-your-marketing-team-heres-why-b1dae45507dd"
+    },
+    {
+        "id": 2,
+        "title": "Earning the Trust of Your Team by Building Stronger One-on-One Connections",
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*OXuteTmQxnciSqjhf9GvFQ.png",
+        "imageAlt": "man in glasses looking up and smiling",
+        "category": "leadership",
+        "srcUrl": "https://medium.com/@emily.mermell/building-stronger-connections-and-earning-the-trust-of-your-team-8ef00d070417"
+    },
+    {
+        "id": 3,
+        "title": "8 UX Changes That Can Transform Your Website’s User Experience",
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*SYKb8qM4iNiXbsr9FYjd6g.png",
+        "imageAlt": "woman presenting in front of a whiteboard",
+        "category": "web strategy",
+        "srcUrl": "https://bootcamp.uxdesign.cc/8-ux-changes-that-can-transform-your-websites-user-experience-3442a9ac238"
+    },
+    {
+        "id": 4,
+        "title": "Getting Started with A/B Testing? Run These Five Experiments First",
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Hxo5qdSrkbRG4e7VyDtx2w.png",
+        "imageAlt": "person typing on laptop",
+        "category": "growth marketing",
+        "srcUrl": "https://bootcamp.uxdesign.cc/getting-started-with-a-b-testing-run-these-five-experiments-first-189e3ba84a41"
+    },
+    {
+        "id": 5,
+        "title": "When High Performers Crash and Burn: Helping Your Team Navigate Burn Out",
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*HcZW7O5cnqJ8kw6poLWQjw.png",
+        "imageAlt": "a pug wrapped in a blanket",
+        "category": "leadership",
+        "srcUrl": "https://medium.com/@emily.mermell/when-high-performers-crash-and-burn-helping-your-team-navigate-burn-out-2adaf760614d"
+    },
+    {
+        "id": 6,
+        "title": "How to Create a Team Built on Feedback",
+        "imageUrl": "https://cdn.prod.website-files.com/6481f01ef61fa8df83d58620/665521245fe16a7487daed4e_feedback-1.png",
+        "imageAlt": "two people sitting at a table speaking",
+        "category": "leadership",
+        "srcUrl": "https://themanagersbubble.substack.com/p/how-to-create-a-team-built-on-feedback"
+    },
+    {
+        "id": 7,
+        "title": "Three Books on UX Writing That Will Change the Way You Write Web Content",
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*6K0fnb14_PGOD99S8SOaCg.png",
+        "imageAlt": "woman reading a book with coffee",
+        "category": "web strategy",
+        "srcUrl": "https://bootcamp.uxdesign.cc/three-books-on-ux-writing-that-will-change-the-way-you-write-web-content-5af6d553486f"
+    },
+    {
+        "id": 8,
+        "title": "10 Books Every Web Strategist Should Read",
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*RiiUyWmcTvhBvnE3kcw2Sw.png",
+        "imageAlt": "a library",
+        "category": "web strategy",
+        "srcUrl": "https://bootcamp.uxdesign.cc/10-books-every-web-strategist-should-read-8787876eebca"
+    },
+    {
+        "id": 9,
+        "title": "Using Inclusive Decision Making to Build Stronger, Happier Teams",
+        "imageUrl": "https://cdn.prod.website-files.com/6481f01ef61fa8df83d58620/665521c633dadc97403f5cca_05e4c6fb-ba52-4788-9531-10d29bc486ea_840x600.webp",
+        "imageAlt": "a sticky note with a light bulb on it",
+        "category": "leadership",
+        "srcUrl": "https://themanagersbubble.substack.com/p/inclusive-decision-making"
+    },
+    {
+        "id": 10,
+        "title": "Becoming an Adaptive Leader When Faced with Constant Change",
+        "imageUrl": "https://cdn.prod.website-files.com/6481f01ef61fa8df83d58620/665521589951c3383376d375_adaptive-1.png",
+        "imageAlt": "a crashing wave",
+        "category": "leadership",
+        "srcUrl": "https://themanagersbubble.substack.com/p/becoming-an-adaptive-leader"
+    },
+    {
+        "id": 11,
+        "title": "When Managing a Team, Don’t Forget to Be a Human Being",
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*cc9p4KK7nJQhia36OdM3Kw.png",
+        "imageAlt": "a woman on her laptop laughing",
+        "category": "leadership",
+        "srcUrl": "https://medium.com/@emily.mermell/when-managing-a-team-dont-forget-to-be-a-human-being-49a7cd528b6b"
+    },
+    {
+        "id": 12,
+        "title": "How Empathy Can Improve Your Website’s Conversion Rate",
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*IXY5181qwkNuqHhBVjQV0w.png",
+        "imageAlt": "two people on a laptop laughing",
+        "category": "web strategy",
+        "srcUrl": "https://bootcamp.uxdesign.cc/how-empathy-can-improve-your-websites-conversion-rates-efc40fc3064a"
+    },
+    {
+        "id": 13,
+        "title": "How to Become a Pro at Cross-Functional Work",
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*w0Zh-tltAlNEZ-_cQU7_5Q.png",
+        "imageAlt": "three people at a table laughing",
+        "category": "communication",
+        "srcUrl": "https://medium.com/@emily.mermell/how-to-become-a-pro-at-cross-functional-work-4586196c2dfc"
+    },
+    {
+        "id": 14,
+        "title": "ChatGPT Prompts for Growth Marketers: Building Your Roadmap with AI",
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*EWdziySFgUmRpKjGVlTsiA.png",
+        "imageAlt": "a man working on laptop smiling",
+        "category": "growth marketing",
+        "srcUrl": "https://medium.com/@emily.mermell/chatgpt-prompts-for-growth-marketers-building-your-roadmap-with-ai-2f90922acba8"
     }
 ]
