@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "Blog 1",
-        "imageUrl": "",
-        "imageAlt": "person at desk",
+        "title": "You Need a Web Strategist on Your Marketing Team, Here’s Why",
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*19B86bLCrHORdEb3rUkfcw.png",
+        "imageAlt": "woman at desk in coffee shop",
         "category": "web strategy",
-        "srcUrl": ""
+        "srcUrl": "https://bootcamp.uxdesign.cc/you-need-a-web-strategist-on-your-marketing-team-heres-why-b1dae45507dd"
     }
 ]
