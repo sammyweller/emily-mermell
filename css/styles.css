@@ -1,0 +1,280 @@
+:root {
+    --blue: #4d31f4;
+    --dark-blue: #10013a;
+    --orange: #f49c61;
+    --navy: #1a0161;
+    --light-grey: #d3dbdc;
+    --off-white: #f6f8f8ee;
+    --lavender: #edeafe;
+    --black: #333;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Open Sans, sans-serif;
+    color: var(--dark-blue);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    letter-spacing: -.04em;
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: 60px;
+    color: var(--dark-blue);
+}
+
+h2 {
+    font-size: 50px;
+    color: var(--navy);
+}
+
+h3 {
+    color: var(--navy);
+    font-size: 20px;
+}
+
+.max-width {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.padding {
+    padding: 60px 30px;
+}
+
+.padding-top {
+    padding: 100px 30px 60px 30px;
+}
+
+.padding-bottom {
+    padding: 60px 30px 120px 30px;
+}
+
+.button {
+    text-align: center;
+    letter-spacing: -.02em;
+    border-radius: 50px;
+    padding: 15px 32px;
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: background 0.3s ease;
+
+}
+
+.button[data-button="purple"] {
+    background: var(--blue);
+    color: white;
+}
+
+.button[data-button="purple"]:hover {
+    background: var(--orange);
+}
+
+.button[data-button="white"] {
+    border: 1px solid var(--light-grey);
+    color: var(--blue);
+}
+
+.button[data-button="white"]:hover {
+    background: var(--light-grey);
+}
+
+
+
+/* Banner */
+.banner {
+    background: var(--navy);
+    color: white;
+    padding: 20px 30px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.banner a {
+    color: white;
+}
+
+.banner a:hover {
+    text-decoration: none;
+}
+
+/* Intro */
+
+.intro {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+
+}
+
+.intro > div {
+    flex: 1;
+}
+
+.intro div:nth-child(2) {
+    max-width: 450px;
+}
+
+.intro h1 {
+    margin-bottom: 30px;
+}
+
+.intro img {
+    width: 100%;
+}
+
+.heading-detail {
+    color: var(--blue);
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: Montserrat, sans-serif;
+    padding-bottom: 15px;
+}
+
+.intro-ctas {
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+
+
+/* Expertise */
+
+.expertise h2 {
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.expertise-block {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    padding: 40px 32px;
+    border: 1px solid var(--light-grey);
+    border-radius: 12px;
+}
+
+.expertise-block--item img {
+    padding: 16px;
+    background: var(--lavender);
+    height: 72px;
+    border-radius: 8px;
+    margin-bottom: 32px;
+}
+
+.expertise-block--item  p {
+    font-size: 14px;
+    line-height: 1.8;
+    letter-spacing: -.01em;
+    margin-top: 15px;
+}
+
+.card-divider {
+    background-color: var(--light-grey);
+    width: 1px;
+    height: 200px;
+    margin: auto;
+}
+
+
+/* Skills */
+
+.skills {
+    display:flex;
+    gap: 60px;
+    align-items: center;
+}
+
+.skills > div {
+    flex: 1;
+}
+
+.skills div:nth-child(2) {
+    max-width: 475px;   
+}
+
+.skills img {
+    width: 100%;
+}
+
+.skills h2 {
+    margin-bottom: 30px;
+}
+
+.skills ul {
+    list-style: none;
+}
+
+.skills li {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.skills svg {
+    margin-right: 10px;
+    min-width: 24px;
+}
+
+.skills svg path {
+    fill: var(--orange);
+}
+
+.skills.last-skill {
+    padding-bottom: 120px;
+}
+
+
+/* Contact */
+.contact-block {
+    text-align: center;
+    max-width: 750px;
+    margin: auto;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.contact-block h2 {
+    margin-bottom: 30px;
+}
+
+.contact-block p {
+    margin-bottom: 60px;
+}
+
+
+/* Blog */
+
+.blog {
+    background: var(--off-white);
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.blog h2 {
+    margin-bottom: 20px;
+}
+
+.blog p {
+    margin-bottom: 40px;
+}
+
+/* Individual articles */
+
+.article p {
+margin-bottom: 0;
+}
