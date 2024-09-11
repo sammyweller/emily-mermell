@@ -474,11 +474,11 @@ margin-bottom: 0;
 
 @media (max-width: 500px) {
     h1 {
-        font-size: 36px;
+        font-size: 30px;
     }
 
     h2 {
-        font-size: 30px;
+        font-size: 28px;
     }
 
     .intro div:nth-child(2) {
@@ -496,6 +496,14 @@ margin-bottom: 0;
     .intro-ctas {
         display: flex;
         flex-direction: column;
+    }
+
+    .banner p {
+        font-size: 14px;
+    }
+
+    .banner {
+        padding: 20px;
     }
 
 }
