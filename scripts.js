@@ -12,7 +12,7 @@ async function fetchArticles() {
             const articleContent = `
                     <a href="${article.srcUrl}" class="article-link" target="_blank" rel="noopener noreferrer">
                         <figure class="article-img"><img src="${article.imageUrl}" alt="${article.imageAlt}"></figure>
-                        <p>${article.category}</p>
+                        <p class="article-category">${article.category}</p>
                         <h3>${article.title}</h3>
                         <p class="read-post-link">Read post
                             <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
